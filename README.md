@@ -18,9 +18,7 @@ I engineer platforms that transform satellite imagery and weather data into auto
 
 ## What I Bring
 
-I speak fluent actuarial modelling, burn-cost analysis, and reinsurance treaty negotiation - and I also write Python algorithms and build full-stack geospatial platforms.
-
-Some African markets run on MPCI and livestock mortality covers. Smallholder cooperatives need different solutions than commercial estates. Reinsurers require proven methodologies alongside cutting-edge innovation. I understand all of it and design accordingly.
+Three years structuring and negotiating agricultural reinsurance treaties across Africa, combined with hands-on development of the geospatial and data pipelines that power modern parametric products. I work across the full stack — from satellite data ingestion to insurance product design to client delivery.
 
 ---
 
