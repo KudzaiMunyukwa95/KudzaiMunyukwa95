@@ -1,4 +1,4 @@
-<h1 align="center">Kudzai Munyukwa</h1>
+<h1 align="center">Kudzai Lemiel Munyukwa</h1>
 
 <p align="center">
   <strong>Agriculture Risk Advisor · Minerva Risk Advisors</strong><br>
