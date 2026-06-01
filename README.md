@@ -10,15 +10,15 @@
 
 ## What I Build
 
-**[Yieldera](https://yieldera.co.zw)** — a full-stack agricultural intelligence and parametric insurance platform serving insurers, banks, NGOs, and agricultural entities across Zimbabwe, Zambia, Botswana, Tanzania, and Malawi.
+**[Yieldera](https://yieldera.co.zw)** - a full-stack agricultural intelligence and parametric insurance platform serving insurers, banks, NGOs, and agricultural entities across Zimbabwe, Zambia, Botswana, Tanzania, and Malawi.
 
-I engineer platforms that transform satellite imagery and weather data into automated, trigger-based payouts. No loss adjusters, no delays — just verifiable, data-driven claims settlement.
+I engineer platforms that transform satellite imagery and weather data into automated, trigger-based payouts. No loss adjusters, no delays - just verifiable, data-driven claims settlement.
 
 ---
 
 ## What I Bring
 
-I speak fluent actuarial modelling, burn-cost analysis, and reinsurance treaty negotiation — and I also write Python algorithms and build full-stack geospatial platforms.
+I speak fluent actuarial modelling, burn-cost analysis, and reinsurance treaty negotiation - and I also write Python algorithms and build full-stack geospatial platforms.
 
 Some African markets run on MPCI and livestock mortality covers. Smallholder cooperatives need different solutions than commercial estates. Reinsurers require proven methodologies alongside cutting-edge innovation. I understand all of it and design accordingly.
 
@@ -39,10 +39,10 @@ Some African markets run on MPCI and livestock mortality covers. Smallholder coo
 
 ## Currently Building
 
-- **AARSE 2026** — co-authoring *Machine Learning and Multi-Spectral Earth Observation for Agricultural Risk Intelligence: A Practical Framework for African Farming Systems*
-- **Yieldera Claims Module** — satellite-verified parametric payout engine
-- **Multi-spectral EO pipeline** — Sentinel-1/2 vegetation and crop stress monitoring at scale
-- **Enterprise integrations** — active pipeline with Old Mutual, Zimnat, AFC, CABS, and Delta Corporation
+- **AARSE 2026** - co-authoring *Machine Learning and Multi-Spectral Earth Observation for Agricultural Risk Intelligence: A Practical Framework for African Farming Systems*
+- **Yieldera Claims Module** - satellite-verified parametric payout engine
+- **Multi-spectral EO pipeline** - Sentinel-1/2 vegetation and crop stress monitoring at scale
+- **Enterprise integrations** - active pipeline with Old Mutual, Zimnat, AFC, CABS, and Delta Corporation
 
 ---
 
@@ -50,7 +50,7 @@ Some African markets run on MPCI and livestock mortality covers. Smallholder coo
 
 Zimbabwe · Zambia · Botswana · Tanzania · Malawi
 
-Climate volatility is accelerating — and so is our ability to measure and respond to it. I build the infrastructure that makes agricultural insurance as reliable and accessible as mobile banking.
+Climate volatility is accelerating - and so is our ability to measure and respond to it. I build the infrastructure that makes agricultural insurance as reliable and accessible as mobile banking.
 
 ---
 
