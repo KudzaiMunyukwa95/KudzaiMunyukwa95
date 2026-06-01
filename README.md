@@ -57,5 +57,5 @@ Climate volatility is accelerating - and so is our ability to measure and respon
 ## Connect
 
 - [yieldera.co.zw](https://yieldera.co.zw)
-- [LinkedIn](https://www.linkedin.com/in/kudzaimunyukwa)
+- [LinkedIn](https://www.linkedin.com/in/kudzai-munyukwa/)
 - Harare, Zimbabwe
