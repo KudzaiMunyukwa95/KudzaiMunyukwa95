@@ -18,7 +18,7 @@ I engineer platforms that transform satellite imagery and weather data into auto
 
 ## What I Bring
 
-Three years structuring and negotiating agricultural reinsurance treaties across Africa, combined with hands-on development of the geospatial and data pipelines that power modern parametric products. I work across the full stack - from satellite data ingestion to insurance product design to client delivery.
+More than six years structuring and negotiating agricultural reinsurance treaties across Africa, combined with hands-on development of the geospatial and data pipelines that power modern parametric products. I work across the full stack - from satellite data ingestion to insurance product design to client delivery.
 
 ---
 
